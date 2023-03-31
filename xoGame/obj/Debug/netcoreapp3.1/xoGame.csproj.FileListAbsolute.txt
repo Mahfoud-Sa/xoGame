@@ -1,0 +1,15 @@
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\bin\Debug\netcoreapp3.1\xoGame.exe
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\bin\Debug\netcoreapp3.1\xoGame.deps.json
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\bin\Debug\netcoreapp3.1\xoGame.runtimeconfig.json
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\bin\Debug\netcoreapp3.1\xoGame.runtimeconfig.dev.json
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\bin\Debug\netcoreapp3.1\xoGame.dll
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\bin\Debug\netcoreapp3.1\xoGame.pdb
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\obj\Debug\netcoreapp3.1\xoGame.csprojAssemblyReference.cache
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\obj\Debug\netcoreapp3.1\xoGame.csproj.CoreCompileInputs.cache
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\obj\Debug\netcoreapp3.1\xoGame.AssemblyInfoInputs.cache
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\obj\Debug\netcoreapp3.1\xoGame.AssemblyInfo.cs
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\obj\Debug\netcoreapp3.1\xoGame.dll
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\obj\Debug\netcoreapp3.1\xoGame.pdb
+C:\Users\AlShaheen\source\repos\xoGame\xoGame\obj\Debug\netcoreapp3.1\xoGame.genruntimeconfig.cache
+E:\projest\Games\XOGame-CMD\xoGame\obj\Debug\netcoreapp3.1\xoGame.dll
+E:\projest\Games\XOGame-CMD\xoGame\obj\Debug\netcoreapp3.1\xoGame.pdb

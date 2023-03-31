@@ -1,0 +1,14 @@
+D:\projest\Games\XOGame-CMD\xoGame\bin\Release\netcoreapp3.1\xoGame.exe
+D:\projest\Games\XOGame-CMD\xoGame\bin\Release\netcoreapp3.1\xoGame.deps.json
+D:\projest\Games\XOGame-CMD\xoGame\bin\Release\netcoreapp3.1\xoGame.runtimeconfig.json
+D:\projest\Games\XOGame-CMD\xoGame\bin\Release\netcoreapp3.1\xoGame.runtimeconfig.dev.json
+D:\projest\Games\XOGame-CMD\xoGame\bin\Release\netcoreapp3.1\xoGame.dll
+D:\projest\Games\XOGame-CMD\xoGame\bin\Release\netcoreapp3.1\xoGame.pdb
+D:\projest\Games\XOGame-CMD\xoGame\obj\Release\netcoreapp3.1\xoGame.csproj.AssemblyReference.cache
+D:\projest\Games\XOGame-CMD\xoGame\obj\Release\netcoreapp3.1\xoGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\projest\Games\XOGame-CMD\xoGame\obj\Release\netcoreapp3.1\xoGame.AssemblyInfoInputs.cache
+D:\projest\Games\XOGame-CMD\xoGame\obj\Release\netcoreapp3.1\xoGame.AssemblyInfo.cs
+D:\projest\Games\XOGame-CMD\xoGame\obj\Release\netcoreapp3.1\xoGame.csproj.CoreCompileInputs.cache
+D:\projest\Games\XOGame-CMD\xoGame\obj\Release\netcoreapp3.1\xoGame.dll
+D:\projest\Games\XOGame-CMD\xoGame\obj\Release\netcoreapp3.1\xoGame.pdb
+D:\projest\Games\XOGame-CMD\xoGame\obj\Release\netcoreapp3.1\xoGame.genruntimeconfig.cache

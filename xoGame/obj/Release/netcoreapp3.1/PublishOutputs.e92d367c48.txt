@@ -1,0 +1,5 @@
+D:\projest\Games\XOGame-CMD\xoGame\bin\Release\netcoreapp3.1\publish\xoGame.exe
+D:\projest\Games\XOGame-CMD\xoGame\bin\Release\netcoreapp3.1\publish\xoGame.dll
+D:\projest\Games\XOGame-CMD\xoGame\bin\Release\netcoreapp3.1\publish\xoGame.deps.json
+D:\projest\Games\XOGame-CMD\xoGame\bin\Release\netcoreapp3.1\publish\xoGame.runtimeconfig.json
+D:\projest\Games\XOGame-CMD\xoGame\bin\Release\netcoreapp3.1\publish\xoGame.pdb
